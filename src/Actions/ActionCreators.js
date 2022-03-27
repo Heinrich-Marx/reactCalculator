@@ -8,7 +8,6 @@ import {
   DARK_THEME,
   COLORED_THEME,
   CLEAR_STORE,
-  CHANGE_SIGN,
 } from '../Constants/Actions';
 
 export const ActionEqual = (num) => ({
@@ -48,8 +47,4 @@ export const ActionColored = () => ({
 
 export const ActionClearStore = () => ({
   type: CLEAR_STORE,
-});
-
-export const ActionChangeSign = () => ({
-  type: CHANGE_SIGN,
 });

@@ -20,7 +20,7 @@ export const OperatorsArr = [
   { id: 18, operator: ')' },
   { id: 19, operator: 'CE' },
   { id: 20, operator: '%' },
-  { id: 21, operator: '+/-' },
+  { id: 21, operator: '' },
   { id: 22, operator: '' },
   { id: 23, operator: '' },
   { id: 24, operator: '' },

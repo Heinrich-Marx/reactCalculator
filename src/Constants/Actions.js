@@ -7,4 +7,3 @@ export const DARK_THEME = 'darkTheme';
 export const COLORED_THEME = 'coloredTheme';
 export const LIGHT_THEME = 'LightTheme';
 export const CLEAR_STORE = 'clearStore';
-export const CHANGE_SIGN = 'changeSign';
